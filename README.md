@@ -15,7 +15,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://blog.unopar.com.br/wp-content/uploads/2019/08/logo-unopar.png"  />
+  <img height="200" src="https://ww1.freelogovectors.net/wp-content/uploads/2023/03/unopar_logo-freelogovectors.net_.png"  />
 </div>
 
 ###
