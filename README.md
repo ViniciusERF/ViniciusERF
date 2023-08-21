@@ -12,6 +12,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img height="200" src="https://blog.unopar.com.br/wp-content/uploads/2019/08/logo-unopar.png"  />
 </div>
