@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Meu nome é Vinicius e sou um  apaixonado por tecnologia👨‍💻</h2>
+<h2 align="center">Olá 👋! Meu nome é Vinicius e sou apaixonado por tecnologia👨‍💻</h2>
 
 ###
 
