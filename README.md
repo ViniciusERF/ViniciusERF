@@ -43,7 +43,7 @@
 
 ###
 
-<p align="center">Graduando 2 semestre de Análise e desenvolvimento de sistemas - UNOPAR Ead<br><br>Cursando Santander Bootcamp Fullstack - Java+Angular - 115horas<br><br>Cursando Domine WEB - 20 Cursos - UDEMY - 110horas</p>
+<p align="center">Graduando 3 semestre de Análise e desenvolvimento de sistemas - UNOPAR Ead<br><br>Cursando Técnico Desenvolvimento de sistemas - Etec Pedro D'Arcádia Neto<br><br>Cursando Domine WEB - 20 Cursos - UDEMY - 110horas</p>
 
 ###
 
