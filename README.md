@@ -31,10 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
 </div>
 
 ###
@@ -43,7 +39,7 @@
 
 ###
 
-<p align="center">Graduando 3 semestre de Análise e desenvolvimento de sistemas - UNOPAR Ead<br><br>Cursando Técnico Desenvolvimento de sistemas - Etec Pedro D'Arcádia Neto<br><br>Cursando Domine WEB - 20 Cursos - UDEMY - 110horas</p>
+<p align="center">Graduando 4 semestre de Análise e desenvolvimento de sistemas - UNOPAR Ead<br><br>Cursando Técnico Desenvolvimento de sistemas - Etec Pedro D'Arcádia Neto<br><br>Cursando Domine WEB - 20 Cursos - UDEMY - 110horas</p>
 
 ###
 
